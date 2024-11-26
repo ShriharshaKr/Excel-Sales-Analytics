@@ -23,23 +23,25 @@ Finance Report
     o	Conducted benchmarking against industry standards and historical periods.
     o	Provided a foundation for accurate budgeting and strategic forecasting.
 
-Purpose of Analytics
+Purpose of Analytics:
+
   •	Sales Analytics: Delivered tools to evaluate sales performance, identify key patterns, and explore growth avenues.
   •	Finance Analytics: Supported strategic planning by offering insights into financial performance and ensuring alignment with organizational goals.
 
-Significance of Data Analysis
+Significance of Data Analysis:
+
   •	Sales Data: Helped recognize sales patterns, track performance metrics, and uncover new opportunities.
   •	Finance Data: Provided key benchmarks, strengthened budget planning, and enhanced financial confidence.
 
-Technical & Soft Skills
-  Technical Skills
+Technical & Soft Skills:
+  Technical Skills:
     •	Expertise in ETL (Extract, Transform, Load) processes for data integration.
     •	Developed date tables in Power Query to create fiscal quarters and months.
     •	Built and managed data model relationships using Power Pivot.
     •	Integrated supplementary datasets into established data models.
     •	Proficient in DAX for creating calculated metrics and measures.
 
-  Soft Skills
+  Soft Skills:
     •	Strong understanding of sales and financial reporting structures and their objectives.
     •	Designed user-friendly and insight-driven reports tailored to stakeholders' needs.
     •	Optimized reports for clarity, efficiency, and performance.
